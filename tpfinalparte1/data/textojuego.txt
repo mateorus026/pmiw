@@ -1,0 +1,112 @@
+LA CASA DE ASTERIÓN
+
+
+PANTALLA 1
+Se que me acusan de locura. Es verdad que no salgo de mi casa, pero sus infinitas puertas están abiertas de día y de noche para todos.
+
+PANTALLA 2
+Aquí no hay lujos, solo quietud. Mi casa es del tamaño del mundo; o mejor dicho, es el mundo. En esta inmensidad de piedra, a veces creo que solo existimos la casa y yo.
+
+ELECCIÓN 1:
+
+Jugar en los pasillos solitarios.
+Ir a PANTALLA 3
+
+Asomarse al exterior.
+Ir a PANTALLA 5
+
+PANTALLA 3
+Corro por las galerías hasta caer mareado. Pero de todos los pasatiempos, mi favorito es jugar al "otro Asterión".
+
+PANTALLA 4
+Finjo que viene a visitarme y le muestro la casa. A veces nos equivocamos de pasillo y nos reímos juntos. Escucho pasos de nueve intrusos.
+
+ELECCIÓN 2:
+
+Esperarlos para cumplir mi sagrado deber.
+Ir a PANTALLA 7
+
+Intentar advertirles con piedad.
+Ir a PANTALLA 9
+
+PANTALLA 5
+Pisé la calle, pero volví rápido. Me espantaron las caras descoloridas de la plebe, indignas de mi linaje.
+
+PANTALLA 6
+El terror de los hombres y sus plegarias me revelaron algo: soy único, inmensamente superior a esa turba. Encuentras un brillante hilo de oro en la entrada.
+
+ELECCIÓN 3: 
+
+Ignorarlo y esperar a los forasteros.
+Ir a PANTALLA 7 
+
+Seguir su rastro hacia galerías inexploradas.
+Ir a PANTALLA 11
+
+PANTALLA 7
+Cada nueve años entran hombres para que yo los libere. Caen sin que yo tenga que ensangrentarme las manos.
+
+PANTALLA 8
+Uno profetizó que llegaría mi redentor. Desde entonces no me duele la soledad; sé que él me sacará de aquí. Escuchas el paso firme de un hombre con espada.
+
+ELECCIÓN 4: 
+
+Aceptar la redención prometida.
+Ir a PANTALLA 13 (Final 1)
+
+El instinto te advierte engaño. Decides luchar.
+Ir a PANTALLA 15 (Final 2)
+
+PANTALLA 9
+Te acercas al primer hombre para darle la bienvenida. Pero tu voz surge como un bramido ensordecedor.
+
+PANTALLA 10
+El hombre grita. En sus ojos ves reflejada a la bestia que creen que eres. La tristeza te inunda. El rechazo quiebra tu corazón.
+
+ELECCIÓN 5: 
+
+Asumir el rol de monstruo y liberarlos rápido.
+Ir a PANTALLA 7
+
+Negarte a derramar sangre y aislarte en lo alto.
+Ir a PANTALLA 17 (Final 3)
+
+PANTALLA 11
+El hilo te guía por galerías olvidadas hasta un vasto estanque de agua negra.
+
+PANTALLA 12
+Te asomas. Por primera vez contemplas tu rostro: una innegable cabeza de toro sobre hombros humanos. La verdad de tu dualidad choca contra tu mente.
+
+ELECCIÓN 6: 
+
+Destruir el estanque y esperar ciegamente al redentor.
+Ir a PANTALLA 7 
+
+Abrazar tu furia animal y prepararte para castigar al intruso.
+Ir a PANTALLA 15 (Final 2)
+
+PANTALLA 13 (FINAL 1: Final Original)
+El hombre levanta su espada. Cierro los ojos, esperando ir a un lugar con menos galerías. La hoja corta el aire; curiosamente, no duele.
+
+PANTALLA 14
+El sol reverbera en la sangre. —¿Lo creerás, Ariadna? —dijo Teseo—. El minotauro apenas se defendió.
+
+► [FINAL 1]
+
+
+PANTALLA 15 (FINAL 2: EL CASTIGO DE CRETA)
+Comprendes que la profecía era una trampa. La cólera ancestral estalla en tu interior. Ya no eres un niño solitario; eres el Minotauro.
+
+PANTALLA 16
+Embistes. La espada de bronce se hace añicos. Teseo cae vencido y tú marchas hacia el exterior, furioso y libre.
+
+► [FINAL 2]
+
+
+PANTALLA 17 (FINAL 3: EL LABERINTO PACIFICADO)
+Te aíslas en la azotea más alta. Cierras los oídos a los lamentos de los hombres perdidos abajo, devorados por la casa.
+
+PANTALLA 18
+Siglos después, Teseo halla a un Asterión petrificado, meditando. Incapaz de asesinar a un dios pacífico, deja caer su espada.
+
+► [FINAL 3]
